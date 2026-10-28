@@ -55,6 +55,7 @@
   "theme_palette_pink": "Rose",
   "theme_palette_indigo": "Indigo",
   "theme_palette_cyan": "Cyan",
+  "theme_palette_grok": "Grok",
   "assets_recent_subtitle": "Retrouvez les fichiers partagés par Hermes dans les discussions enregistrées",
   "assets_scope_notice": "Fichiers générés explicitement partagés par Hermes dans les réponses enregistrées. Il s’agit d’une vue partielle de l’historique des discussions, et non d’un catalogue complet des fichiers ou pièces jointes. Les fichiers référencés peuvent ne plus exister.",
   "assets_download_limit": "Les fichiers ne sont chargés que lorsque vous appuyez dessus. Les aperçus et les téléchargements sont limités à 25 MiB par fichier ; utilisez le tableau de bord pour les fichiers plus volumineux.",

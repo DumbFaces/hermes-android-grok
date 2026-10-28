@@ -55,6 +55,7 @@
   "theme_palette_pink": "ピンク",
   "theme_palette_indigo": "藍色",
   "theme_palette_cyan": "シアン",
+  "theme_palette_grok": "Grok",
   "assets_recent_subtitle": "保存済みのチャットで Hermes が共有したファイルを探す",
   "assets_scope_notice": "保存済みの返信で Hermes が明示的に共有した生成ファイルを表示します。チャット履歴の一部のみを対象としており、すべてのファイルや添付ファイルを網羅するものではありません。参照先のファイルはすでに存在しない場合があります。",
   "assets_download_limit": "ファイルはタップしたときにのみ読み込まれます。プレビューとダウンロードの上限は、それぞれ 1 ファイルあたり 25 MiB です。これより大きなファイルはダッシュボードをご利用ください。",

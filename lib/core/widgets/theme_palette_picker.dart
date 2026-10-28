@@ -18,6 +18,7 @@ String paletteLabel(BuildContext context, HermesPalette palette) {
     HermesPalette.pink => l10n.theme_palette_pink,
     HermesPalette.indigo => l10n.theme_palette_indigo,
     HermesPalette.cyan => l10n.theme_palette_cyan,
+    HermesPalette.grok => l10n.theme_palette_grok,
   };
 }
 

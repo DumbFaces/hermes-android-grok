@@ -55,6 +55,7 @@
   "theme_palette_pink": "粉色",
   "theme_palette_indigo": "靛蓝色",
   "theme_palette_cyan": "青色",
+  "theme_palette_grok": "Grok",
   "assets_recent_subtitle": "查找 Hermes 在已保存的聊天中分享的文件",
   "assets_scope_notice": "仅显示 Hermes 在已保存的回复中明确分享的已生成文件。这里只展示部分聊天历史，并非完整的文件或附件目录。引用的文件可能已不存在。",
   "assets_download_limit": "文件仅在点按时加载。预览和下载的单个文件大小上限均为 25 MiB；更大的文件请通过仪表盘获取。",

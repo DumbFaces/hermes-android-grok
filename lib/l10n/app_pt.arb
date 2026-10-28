@@ -55,6 +55,7 @@
   "theme_palette_pink": "Rosa",
   "theme_palette_indigo": "Índigo",
   "theme_palette_cyan": "Ciano",
+  "theme_palette_grok": "Grok",
   "assets_recent_subtitle": "Encontre arquivos compartilhados pelo Hermes em chats salvos",
   "assets_scope_notice": "Arquivos gerados e compartilhados explicitamente pelo Hermes em respostas salvas. Esta é uma visão parcial do histórico de chats, não um catálogo completo de arquivos ou anexos. Os arquivos referenciados podem não existir mais.",
   "assets_download_limit": "Os arquivos só são carregados ao tocar neles. Pré-visualizações e downloads têm limite de 25 MiB por arquivo; use o painel para arquivos maiores.",

@@ -6,11 +6,29 @@
   "background_report_collapse": "Collapse report",
   "@@locale": "en",
   "message_time_recorded": "Recorded by server: {time} (local time)",
-  "@message_time_recorded": {"placeholders": {"time": {"type": "String"}}},
+  "@message_time_recorded": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
   "message_time_sent": "Send observed on this device: {time} (local time)",
-  "@message_time_sent": {"placeholders": {"time": {"type": "String"}}},
+  "@message_time_sent": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
   "message_time_received": "First received on this device: {time} (local time)",
-  "@message_time_received": {"placeholders": {"time": {"type": "String"}}},
+  "@message_time_received": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
   "stop_and_send": "Stop and send",
   "message_queued_for_running_turn": "Message queued for the current run.",
   "running_message_not_accepted": "Hermes could not accept this message. Your draft was kept; stop the response or wait, then send again.",
@@ -44,7 +62,16 @@
   "attachment_video_seek": "Video position",
   "attachment_close": "Close preview",
   "attachment_retry": "Retry",
-  "@attachment_pdf_page": {"placeholders": {"page": {"type": "int"}, "total": {"type": "int"}}},
+  "@attachment_pdf_page": {
+    "placeholders": {
+      "page": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
   "saved_history_heading": "Saved history",
   "received_output_heading": "Received output — match to saved history unconfirmed",
   "received_output_details": "About received output",
@@ -63,6 +90,7 @@
   "theme_palette_pink": "Pink",
   "theme_palette_indigo": "Indigo",
   "theme_palette_cyan": "Cyan",
+  "theme_palette_grok": "Grok",
   "assets_recent_subtitle": "Find files shared by Hermes in saved chats",
   "assets_scope_notice": "Generated files explicitly shared by Hermes in saved replies. This is a partial view of chat history, not a complete file or attachment catalogue. Referenced files may no longer exist.",
   "assets_download_limit": "Files are loaded only when tapped. Previews and downloads are limited to 25 MiB each; use the dashboard for larger files.",
@@ -81,9 +109,24 @@
   "assets_retry_failed": "Retry failed history reads",
   "assets_partial": "The server reported incomplete history. Refresh after checking the dashboard.",
   "assets_scan_summary": "{files} file references found across {chats} scanned chats",
-  "@assets_scan_summary": {"placeholders": {"files": {"type": "int"}, "chats": {"type": "int"}}},
+  "@assets_scan_summary": {
+    "placeholders": {
+      "files": {
+        "type": "int"
+      },
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
   "assets_open_chat": "Open chat: {title}",
-  "@assets_open_chat": {"placeholders": {"title": {"type": "String"}}},
+  "@assets_open_chat": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
   "assets_file_too_large": "This file exceeds the download limit. Open the dashboard to download it.",
   "a_one_off_question_archives_itself_after_72_hours_anything": "A one-off question. Archives itself after 72 hours; anything worth keeping is still remembered.",
   "archive_chat": "Archive chat",
@@ -91,7 +134,13 @@
   "chat_archived": "Chat archived",
   "chat_unarchived": "Chat unarchived",
   "could_not_update_chat_archive": "Could not update chat archive: {error}",
-  "@could_not_update_chat_archive": {"placeholders": {"error": {"type": "Object"}}},
+  "@could_not_update_chat_archive": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
   "quick_chat_description": "A one-off question.",
   "ai_full_text": "AI + full-text",
   "ai_search_model": "AI search model",
@@ -137,7 +186,9 @@
   "attachment_of": "Attachment {index} of {total}",
   "auto_device_default": "Auto (device default)",
   "agent": "Agent",
-  "@agent": {"description": "More menu section containing Cron, Skills and Memory."},
+  "@agent": {
+    "description": "More menu section containing Cron, Skills and Memory."
+  },
   "autonomous_agents": "Autonomous agents",
   "background_recovery_unavailable_legacy_transport": "Background recovery unavailable — legacy transport",
   "background_task_completed": "Background task complete",

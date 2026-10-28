@@ -55,6 +55,7 @@
   "theme_palette_pink": "Rosa",
   "theme_palette_indigo": "Indigo",
   "theme_palette_cyan": "Cyan",
+  "theme_palette_grok": "Grok",
   "assets_recent_subtitle": "Finde Dateien, die Hermes in gespeicherten Chats geteilt hat",
   "assets_scope_notice": "Generierte Dateien, die Hermes in gespeicherten Antworten ausdrücklich geteilt hat. Dies ist nur ein Ausschnitt des Chatverlaufs, kein vollständiger Datei- oder Anhangskatalog. Die referenzierten Dateien sind möglicherweise nicht mehr vorhanden.",
   "assets_download_limit": "Dateien werden erst beim Antippen geladen. Vorschauen und Downloads sind auf jeweils 25 MiB pro Datei begrenzt; nutze für größere Dateien das Dashboard.",
